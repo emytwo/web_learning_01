@@ -1,0 +1,28 @@
+body {
+  background-color: #efeee4;
+}
+
+a {
+  text-decoration:none;
+}
+
+#huahua-title {
+  background-image: url(huahua-2.jpg);
+  background-size: 850px 440px;
+  background-repeat: no-repeat;
+  width: 850px;
+  height: 440px;
+  margin-left:270px;
+  /* border: 2px solid #000000; */
+}
+
+#container {
+  margin: 0px 110px 0px 110px;
+}
+
+#general-info {
+  width: 600px;
+  float: left;
+  font-size: 0.9em;
+  padding-top: 20px;
+}
